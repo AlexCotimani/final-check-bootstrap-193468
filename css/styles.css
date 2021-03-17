@@ -1,0 +1,34 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+.my-container {
+	color: black;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: turquoise;
+}
+.my-class {
+	color: red;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: lightblue;
+}
+#my-id {
+	color: red;
+}
+.id {
+}
+.body {
+    font-family: 'Gloria Hallelujah', cursive;
+    ;
+    background-image: url(../images/bg.jpg);
+}
+.my-image {
+	margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+ 
